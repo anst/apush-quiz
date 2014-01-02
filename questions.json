@@ -1,0 +1,362 @@
+{
+	"1": {
+		"question":"What nickname was Jackson bestowed by his troops due to his toughness and loyalty?",
+		"answers": {
+			"A":"Old Hickory",
+			"B":"Honest Abe",
+			"C":"King Mob",
+			"D":"Dynamo of Power",
+			"E":"None of the above"
+		},
+		"correct":"A",
+		"difficulty": 1
+	},
+	"2": {
+		"question":"What were some of the characteristics of the Jacksonian Democracy?",
+		"answers": {
+			"A":"Expanded sufferage",
+			"B":"Mobocracy",
+			"C":"Political patronage",
+			"D":"Laissez faire economics",
+			"E":"All of the above"
+		},
+		"correct":"E",
+		"difficulty": 1
+	},
+	"3": {
+		"question":"All of the following participated in the election of 1824 EXCEPT",
+		"answers": {
+			"A":"John Calhoun",
+			"B":"Henry Clay",
+			"C":"William Crawford",
+			"D":"John Quincy Adams",
+			"E":"James Monroe"
+		},
+		"correct":"E",
+		"difficulty": 1 
+	},
+	"4": {
+		"question":"How did Jackson strengthen the office of the presidency?",
+		"answers": {
+			"A":"Increase the size of the military",
+			"B":"Using the veto to block policies he did not like",
+			"C":"Levy an income tax on the rich",
+			"D":"A and B",
+			"E":"All of the above"
+		},
+		"correct":"D",
+		"difficulty": 1
+	},
+	"5":{
+		"question":"What did the Indian Removal Act put in place by Jackson do to the Indians?",
+		"answers":{
+			"A":"Tax the Indians",
+			"B":"Give all Indians generous peace bribes",
+			"C":"Force them onto reservations",
+			"D":"Sell them into slavery",
+			"E":"Force them to live on the land they currently owned"
+		},
+		"correct":"C",
+		"difficulty":1
+	},
+	"6":{
+		"question":"What reason did Jackson give for vetoing Clay and his American System bill?",
+		"answers":{
+			"A":"Too expensive for America",
+			"B":"America already had a good system of transportation",
+			"C":"Jackson wanted to attack Clay by vetoing the bill",
+			"D":"He did not want to divert resources to transportation when an angry Britain may attack ",
+			"E":"The federal government should mess with local affairs"
+		},
+		"correct":"E",
+		"difficulty":1
+	},
+	"7": {
+		"question":"What bill was passed after the nullification crisis in South Carolina?",
+		"answers":{
+			"A":"Nullification Act",
+			"B":"The Force Act",
+			"C":"Tariff Interference Act",
+			"D":"The Necessary and Proper Act",
+			"E":"Crisis Act"
+		},
+		"correct":"B",
+		"difficulty":1
+	},
+	"8": {
+		"question":"What was the main political point during the 1832 reelection of Jackson?",
+		"answers":{
+			"A":"The Bank war",
+			"B":"The Tariff Policy",
+			"C":"Britain and Frances encroachment on the new country",
+			"D":"Regulating the slow and steady birth of American Industry",
+			"E":"None of the above"
+		},
+		"correct":"A",
+		"difficulty":1
+	},
+	"9": {
+		"question":"How did Jacksonians feel about the Native Americans and their relocation?",
+		"answers":{
+			"A":"The felt it was not severe enough",
+			"B":"They felt they had given the Indians a good offer and that they should be grateful",
+			"C":"They wanted to make the Indians feel like they were an important part of the United States",
+			"D":"The government had been way too nice and that the Indians did not deserve the offer they got",
+			"E":"The relocation was a necessary evil that went too far"
+		},
+		"correct":"B",
+		"difficulty":1
+	},
+	"10": {
+		"question":"What did Jackson feel that a presidents responsibilities should be?",
+		"answers":{
+			"A":"The president should be a passive leader who only intervenes when the people cannot come to an agreement on their own",
+			"B":"The president should try to control his party while in office to get everything he can done",
+			"C":"The president should be a strong leader that is always in the political ring trying to change his country for the better",
+			"D":"The president should act as a figurehead and nothing more to keep the country in balance",
+			"E":"None of the above"
+		},
+		"correct":"C",
+		"difficulty":1
+	},
+	"11": {
+		"question":"What was Jacksons nickname for the Bank of The United States?",
+		"answers":{
+			"A":"The Great Money Thief",
+			"B":"The United States Thieves America",
+			"C":"Octopus of Corruption",
+			"D":"Hydra of Corruption",
+			"E":"The Wild Mustang of Money"
+		},
+		"correct":"D",
+		"difficulty":2
+	},
+	"12": {
+		"question":"What did the Indian Removal Act put in place by Jackson do to the Indians?",
+		"answers":{
+			"A":"Tax the Indians",
+			"B":"Give all Indians generous peace bribes",
+			"C":"Force them onto reservations",
+			"D":"Sell them into slavery",
+			"E":"Force them to live on the land they currently owned"
+		},
+		"correct":"C",
+		"difficulty":2
+	}, 
+	"13": {
+		"question":"How did Jackson defend the Spoils System?",
+		"answers":{
+			"A":"Any citizen can easily use a political office as efficiently as his neighbor",
+			"B":"It is the right of the party who wins to do whatever they want with the government",
+			"C":"Adams did it before me therefore I should be able to do the same",
+			"D":"The spoils system was not illegal therefore it is my duty to people who are responsible in government positions of power",
+			"E":"None of the above"
+		},
+		"correct":"A",
+		"difficulty":2
+	},
+	"14": {
+		"question":"Why did Jackson pick John C. Calhoun as his Vice President?",
+		"answers":{
+			"A":"He believed that Calhoun was a pushover he could control",
+			"B":"He wanted to have a person who would draw in Old Southerners",
+			"C":"They were both successful southern men who wanted to grow the South’s power",
+			"D":"To have a vice president that supported slavery",
+			"E":"He wanted to make a connection to the South and the West"
+		},
+		"correct":"B",
+		"difficulty":2
+	},
+	"15": {
+		"question":"What was one of Jackson’s reasons for giving federal jobs to party loyalists?",
+		"answers":{
+			"A":"He believed in the \"Spoils Systems\".",
+			"B":"He wanted a person who would draw the southerners to his side",
+			"C":"He wanted to remove the Indians",
+			"D":"A & C",
+			"E":"All of the above"
+		}, 
+		"correct":"A",
+		"difficulty":2
+	},
+	"16": {
+		"question":"Who became the North’s main spokesman for protecting the Tariff of Abominations?",
+		"answers": {
+			"A":"Daniel Webster",
+			"B":"Andrew Jackson",
+			"C":"John C. Calhoun",
+			"D":"Henry Clay",
+			"E":"Martin Van Buren"
+		},
+		"correct":"A",
+		"difficulty":2
+	},
+	"17": {
+		"question":"What was the result of the cessation of all Cherokee lands to the U.S.?",
+		"answers": {
+			"A":"The Trails of Tears",
+			"B":"The Nullification Compromise",
+			"C":"The Clay Compromise",
+			"D":"The Force Act",
+			"E":"All of the above"	
+		},
+		"correct":"A",
+		"difficulty":2
+	},
+	"18": {
+		"question":"What nickname was Jackson bestowed by his troops due to his toughness and loyalty?",
+		"answers": {
+			"A":"Old Hickory",
+			"B":"Honest Abe",
+			"C":"King Mob",
+			"D":"Dynamo of Power",
+			"E":"None of the above"
+		},
+		"correct":"A",
+		"difficulty": 2
+	},
+	"19": {
+		"question":"What were some of the characteristics of the Jacksonian Democracy?",
+		"answers": {
+			"A":"Expanded sufferage",
+			"B":"Mobocracy",
+			"C":"Political patronage",
+			"D":"Laissez faire economics",
+			"E":"All of the above"
+		},
+		"correct":"E",
+		"difficulty": 2
+	},
+	"20": {
+		"question":"All of the following participated in the election of 1824 EXCEPT",
+		"answers": {
+			"A":"John Calhoun",
+			"B":"Henry Clay",
+			"C":"William Crawford",
+			"D":"John Quincy Adams",
+			"E":"James Monroe"
+		},
+		"correct":"E",
+		"difficulty": 2 
+	},
+	"21": {
+		"question":"How did Jackson strengthen the office of the presidency?",
+		"answers": {
+			"A":"Increase the size of the military",
+			"B":"Using the veto to block policies he did not like",
+			"C":"Levy an income tax on the rich",
+			"D":"A and B",
+			"E":"All of the above"
+		},
+		"correct":"D",
+		"difficulty": 3
+	},
+	"22":{
+		"question":"What did the Indian Removal Act put in place by Jackson do to the Indians?",
+		"answers":{
+			"A":"Tax the Indians",
+			"B":"Give all Indians generous peace bribes",
+			"C":"Force them onto reservations",
+			"D":"Sell them into slavery",
+			"E":"Force them to live on the land they currently owned"
+		},
+		"correct":"C",
+		"difficulty":3
+	},
+	"23":{
+		"question":"What reason did Jackson give for vetoing Clay and his American System bill?",
+		"answers":{
+			"A":"Too expensive for America",
+			"B":"America already had a good system of transportation",
+			"C":"Jackson wanted to attack Clay by vetoing the bill",
+			"D":"He did not want to divert resources to transportation when an angry Britain may attack ",
+			"E":"The federal government should mess with local affairs"
+		},
+		"correct":"E",
+		"difficulty":3
+	},
+	"24": {
+		"question":"What bill was passed after the nullification crisis in South Carolina?",
+		"answers":{
+			"A":"Nullification Act",
+			"B":"The Force Act",
+			"C":"Tariff Interference Act",
+			"D":"The Necessary and Proper Act",
+			"E":"Crisis Act"
+		},
+		"correct":"B",
+		"difficulty":3
+	},
+	"25": {
+		"question":"What was the main political point during the 1832 reelection of Jackson?",
+		"answers":{
+			"A":"The Bank war",
+			"B":"The Tariff Policy",
+			"C":"Britain and Frances encroachment on the new country",
+			"D":"Regulating the slow and steady birth of American Industry",
+			"E":"None of the above"
+		},
+		"correct":"A",
+		"difficulty":3
+	},
+	"26": {
+		"question":"How did Jacksonians feel about the Native Americans and their relocation?",
+		"answers":{
+			"A":"The felt it was not severe enough",
+			"B":"They felt they had given the Indians a good offer and that they should be grateful",
+			"C":"They wanted to make the Indians feel like they were an important part of the United States",
+			"D":"The government had been way too nice and that the Indians did not deserve the offer they got",
+			"E":"The relocation was a necessary evil that went too far"
+		},
+		"correct":"B",
+		"difficulty":3
+	},
+	"27": {
+		"question":"What did Jackson feel that a presidents responsibilities should be?",
+		"answers":{
+			"A":"The president should be a passive leader who only intervenes when the people cannot come to an agreement on their own",
+			"B":"The president should try to control his party while in office to get everything he can done",
+			"C":"The president should be a strong leader that is always in the political ring trying to change his country for the better",
+			"D":"The president should act as a figurehead and nothing more to keep the country in balance",
+			"E":"None of the above"
+		},
+		"correct":"C",
+		"difficulty":3
+	},
+	"28": {
+		"question":"What was Jacksons nickname for the Bank of The United States?",
+		"answers":{
+			"A":"The Great Money Thief",
+			"B":"The United States Thieves America",
+			"C":"Octopus of Corruption",
+			"D":"Hydra of Corruption",
+			"E":"The Wild Mustang of Money"
+		},
+		"correct":"D",
+		"difficulty":3
+	},
+	"29": {
+		"question":"What did the Indian Removal Act put in place by Jackson do to the Indians?",
+		"answers":{
+			"A":"Tax the Indians",
+			"B":"Give all Indians generous peace bribes",
+			"C":"Force them onto reservations",
+			"D":"Sell them into slavery",
+			"E":"Force them to live on the land they currently owned"
+		},
+		"correct":"C",
+		"difficulty":3
+	}, 
+	"30": {
+		"question":"How did Jackson defend the Spoils System?",
+		"answers":{
+			"A":"Any citizen can easily use a political office as efficiently as his neighbor",
+			"B":"It is the right of the party who wins to do whatever they want with the government",
+			"C":"Adams did it before me therefore I should be able to do the same",
+			"D":"The spoils system was not illegal therefore it is my duty to people who are responsible in government positions of power",
+			"E":"None of the above"
+		},
+		"correct":"A",
+		"difficulty":3
+	}
+}
